@@ -4,3 +4,7 @@
 def myFunction():
   # My Function
   return "Hello World!"
+
+def myFunction(*name):
+  input(name)
+  return ("Hello,"name)
