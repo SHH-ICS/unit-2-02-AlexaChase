@@ -3,7 +3,3 @@
 
 def myFunction():
   print("Hello, World!")
-
-def myFunction():
-username = input("What is your name?")
-print("Hello", username"!")
