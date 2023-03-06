@@ -7,4 +7,4 @@ def myFunction():
 
 def myFunction(*name):
   input(name)
-  return ("Hello,"name)
+  return ("Hello,",name)
