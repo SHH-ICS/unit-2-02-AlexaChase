@@ -6,5 +6,6 @@ def myFunction():
   return "Hello World!"
 
 def myFunction():
-   name= input("Enter name:")
+  # My Function
+  name= input("Enter name:")
   print("Hello," + name)
