@@ -4,8 +4,3 @@
 def myFunction():
   # My Function
   return "Hello World!"
-
-def myFunction():
-  # My Function
-  name= input("Enter name:")
-  print("Hello," + name)
